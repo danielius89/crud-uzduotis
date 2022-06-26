@@ -19,7 +19,7 @@ class FormComponent {
     if (!(onSuccess instanceof Function)) {
       throw new Error(`failed FormComponent instance creation:\n'onSuccess' is not a function.`);
     }
-console.log(selector);
+    console.log(selector);
     this.#htmlElement = htmlElement;
     this.#formatErrors = formatErrors;
     this.#onSuccess = onSuccess;
