@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "Palaižyt sau alkūnę",
+      "completed": true
+    },
+    {
+      "title": "Įsigyti šilelį",
+      "completed": true,
+      "id": "fMdSnuK"
+    },
+    {
+      "title": "Užauginti medį",
+      "completed": true,
+      "id": "tJNwGBf"
+    },
+    {
+      "title": "Pasodinti vaiką",
+      "completed": true,
+      "id": "e_6_W4h"
+    }
+  ]
+}
